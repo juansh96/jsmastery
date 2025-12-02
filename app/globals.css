@@ -567,3 +567,11 @@ code {
     @apply bg-background text-foreground;
   }
 }
+
+@utility bg-auth-dark {
+  background-image: url("/images/auth-dark.png");
+}
+
+@utility bg-auth-light {
+  background-image: url("/images/auth-light.png");
+}
